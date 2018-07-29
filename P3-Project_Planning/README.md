@@ -23,3 +23,7 @@ http://img.photobucket.com/albums/v714/vocalzero/page%201_zpsndzzrf8u.jpg
 ### Project Tracker
 
 Pivotal tracker https://www.pivotaltracker.com/n/projects/2186228
+
+### Project Repository
+
+https://github.com/sirjdt/inventory-manager
