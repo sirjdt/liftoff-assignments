@@ -8,8 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Inventory page
+
+http://img.photobucket.com/albums/v714/vocalzero/page%203_zps1gzptizk.jpg
+
+Reports page
+
+http://img.photobucket.com/albums/v714/vocalzero/page%202_zpsmxy66bu9.jpg
+
+Shipping page
+
+http://img.photobucket.com/albums/v714/vocalzero/page%201_zpsndzzrf8u.jpg
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Pivotal tracker https://www.pivotaltracker.com/n/projects/2186228
