@@ -10,15 +10,15 @@ For this assignment, you'll create some initial plans for your project.
 
 Inventory page
 
-http://img.photobucket.com/albums/v714/vocalzero/page%203_zps1gzptizk.jpg
+http://img.photobucket.com/albums/v714/vocalzero/page%202_zpsmxy66bu9.jpg
 
 Reports page
 
-http://img.photobucket.com/albums/v714/vocalzero/page%202_zpsmxy66bu9.jpg
+http://img.photobucket.com/albums/v714/vocalzero/page%203_zps1gzptizk.jpg
 
 Shipping page
 
-http://img.photobucket.com/albums/v714/vocalzero/page%201_zpsndzzrf8u.jpg
+http://img.photobucket.com/albums/v714/vocalzero/page%204_zpsz3ghuhe6.jpg
 
 ### Project Tracker
 
